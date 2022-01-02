@@ -1,0 +1,1 @@
+{"version":3,"file":"parse-ether.js","sourceRoot":"","sources":["../../../../../simple-uniswap-sdk/src/common/utils/parse-ether.ts"],"names":[],"mappings":";;;;;;AAAA,8DAAqC;AACrC,0CAAkE;AAElE;;;GAGG;AACH,SAAgB,UAAU,CAAC,KAAgB;IACzC,OAAO,IAAI,sBAAS,CAClB,IAAA,kBAAgB,EAAC,IAAI,sBAAS,CAAC,KAAK,CAAC,CAAC,OAAO,EAAE,CAAC,CAAC,WAAW,EAAE,CAC/D,CAAC;AACJ,CAAC;AAJD,gCAIC"}

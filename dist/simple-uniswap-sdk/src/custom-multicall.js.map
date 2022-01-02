@@ -1,0 +1,1 @@
+{"version":3,"file":"custom-multicall.js","sourceRoot":"","sources":["../../../simple-uniswap-sdk/src/custom-multicall.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;AACA,yDAA+C;AAE/C;IAAqC,mCAAS;IAC5C,yBACE,cAAwB,EACxB,8BAAmD;eAEnD,kBAAM;YACJ,cAAc,gBAAA;YACd,YAAY,EAAE,IAAI;YAClB,8BAA8B,gCAAA;SAC/B,CAAC;IACJ,CAAC;IACH,sBAAC;AAAD,CAAC,AAXD,CAAqC,8BAAS,GAW7C;AAXY,0CAAe"}

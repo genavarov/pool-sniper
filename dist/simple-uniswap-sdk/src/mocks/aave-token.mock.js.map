@@ -1,0 +1,1 @@
+{"version":3,"file":"aave-token.mock.js","sourceRoot":"","sources":["../../../../simple-uniswap-sdk/src/mocks/aave-token.mock.ts"],"names":[],"mappings":";;;AAEA,SAAgB,QAAQ;IACtB,OAAO;QACL,OAAO,EAAE,CAAC;QACV,eAAe,EAAE,4CAA4C;QAC7D,QAAQ,EAAE,EAAE;QACZ,MAAM,EAAE,MAAM;QACd,IAAI,EAAE,MAAM;KACb,CAAC;AACJ,CAAC;AARD,4BAQC"}

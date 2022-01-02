@@ -1,0 +1,1 @@
+{"version":3,"file":"uni-token.mock.js","sourceRoot":"","sources":["../../../../simple-uniswap-sdk/src/mocks/uni-token.mock.ts"],"names":[],"mappings":";;;AAEA,SAAgB,OAAO;IACrB,OAAO;QACL,OAAO,EAAE,CAAC;QACV,eAAe,EAAE,4CAA4C;QAC7D,QAAQ,EAAE,EAAE;QACZ,MAAM,EAAE,KAAK;QACb,IAAI,EAAE,SAAS;KAChB,CAAC;AACJ,CAAC;AARD,0BAQC"}

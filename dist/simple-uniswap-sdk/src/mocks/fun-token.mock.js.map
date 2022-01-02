@@ -1,0 +1,1 @@
+{"version":3,"file":"fun-token.mock.js","sourceRoot":"","sources":["../../../../simple-uniswap-sdk/src/mocks/fun-token.mock.ts"],"names":[],"mappings":";;;AAEA,SAAgB,OAAO;IACrB,OAAO;QACL,OAAO,EAAE,CAAC;QACV,eAAe,EAAE,4CAA4C;QAC7D,QAAQ,EAAE,CAAC;QACX,MAAM,EAAE,KAAK;QACb,IAAI,EAAE,SAAS;KAChB,CAAC;AACJ,CAAC;AARD,0BAQC"}

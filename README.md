@@ -24,6 +24,10 @@ vim .env
 
 # Run pool-sniper
 npm run start
+# Try patches reinstall simple-uniswap-sdk 3.6.2 to 3.4.2
+npm uninstall simple-uniswap-sdk
+npm install simple-uniswap-sdk@3.4.2
+
 ```
 
 ## Local testing
